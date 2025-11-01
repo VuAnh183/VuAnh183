@@ -1,7 +1,18 @@
-##  👋 Hi, I'm Vu Anh
+# 👋 Hi, I'm Vu Anh
 
-🎓 **M1 Applied MSc in Data Engineering for AI** at **DSTI School of Engineering**, France  <br>💻 **Cloud/Data Engineer** with a strong foundation in **Software Engineering** and **Computer Science**  <br><br>---<br><br>### 🌩️ About Me<br>🏅 AWS Certified (**SAA-C03**, **AIF-C01**, **DEA-C01**)  <br>☁️ Passionate about **Cloud Computing**, **Cloud Infrastructure**, and **AI-driven Data Systems**  <br>🐍 Skilled in **Python**, **Terraform**, **Docker**, and **Natural Language Processing (NLP)**  <br>🚀 Currently exploring **Apache Airflow**, **dbt**, and **Apache Spark**<br><br>---<br><br>### 🧠 Interests<br>☁️ Cloud Computing/Architecture & Infrastructure as Code  <br>📊 Data Engineering & Analytics Pipelines  <br>🤖 Machine Learning & NLP  <br>🧩 Automation and DevOps for Data  
+### 🌩️ About Me
+🎓 **M1 Applied MSc in Data Engineering for AI** at **DSTI School of Engineering**, France  
+💻 **Cloud/Data Engineer** with a strong foundation in **Software Engineering** and **Computer Science**  
+🏅 AWS Certified (**SAA-C03**, **AIF-C01**, **DEA-C01**)  
+☁️ Passionate about **Cloud Computing**, **Cloud Infrastructure**, and **AI-driven Data Systems**  
+🐍 Skilled in **Python**, **Terraform**, **Docker**, and **Natural Language Processing (NLP)**  
+🚀 Currently exploring **Apache Airflow**, **dbt**, and **Apache Spark**
 
+### 🧠 Interests
+☁️ Cloud Computing/Architecture & Infrastructure as Code  
+📊 Data Engineering & Analytics Pipelines  
+🤖 Machine Learning & NLP  
+🧩 Automation and DevOps for Data  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dinh.vuanh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dinh-vu-anh-9345b6253) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dinhvuanh2708@gmail.com) 
