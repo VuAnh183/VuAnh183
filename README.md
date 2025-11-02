@@ -1,12 +1,25 @@
 # 👋 Hi, I'm Vu Anh
 
 ### 🌩️ About Me
-🎓 **M1 Applied MSc in Data Engineering for AI** at **DSTI School of Engineering**, France  
-💻 **Cloud/Data Engineer** with a strong foundation in **Software Engineering** and **Computer Science**  
-🏅 AWS Certified (**SAA-C03**, **AIF-C01**, **DEA-C01**)  
-☁️ Passionate about **Cloud Computing**, **Cloud Infrastructure**, and **AI-driven Data Systems**  
-🐍 Skilled in **Python**, **Terraform**, **Docker**, and **Natural Language Processing (NLP)**  
-🚀 Currently exploring **Apache Airflow**, **dbt**, and **Apache Spark**
+
+🎓 **Education**  
+M1 Applied MSc in Data Engineering for AI — **DSTI School of Engineering**, France  
+
+💻 **Experience**  
+Cloud/Data Engineer with a strong foundation in **Software Engineering** and **Computer Science**  
+
+🏅 **Certifications**  
+AWS Certified — **SAA-C03**, **AIF-C01**, **DEA-C01**
+
+☁️ **Focus Areas**  
+Cloud Computing • Infrastructure as Code • AI-driven Data Systems  
+
+🐍 **Technical Skills**  
+Python • Terraform • Docker • Natural Language Processing (NLP)  
+
+🚀 **Currently Learning**  
+Apache Airflow • dbt • Apache Spark  
+
 
 ### 🧠 Interests
 ☁️ Cloud Computing/Architecture & Infrastructure as Code  
