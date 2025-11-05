@@ -6,7 +6,7 @@
 M1 Applied MSc in Data Engineering for AI — **DSTI School of Engineering**, France  
 
 💻 **Experience**  
-Cloud/Data Engineer with a strong foundation in **Software Engineering** and **Computer Science**  
+Cloud/Data Engineer with a strong foundation in **Software Engineering** and **Cloud technologies**  
 
 🏅 **Certifications**  
 AWS Certified — **SAA-C03**, **AIF-C01**, **DEA-C01**
