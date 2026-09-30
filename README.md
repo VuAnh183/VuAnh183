@@ -3,7 +3,7 @@
 ### 🌩️ About Me
 
 🎓 **Education**  
-M1 Applied MSc in Data Engineering for AI — **DSTI School of Engineering**, France  
+M2 Applied MSc in Data Engineering for AI — **DSTI School of Engineering**, France  
 
 💻 **Experience**  
 Cloud/Data Engineer with a strong foundation in **Software Engineering** and **Cloud technologies**  
